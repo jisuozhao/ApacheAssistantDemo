@@ -4,10 +4,11 @@ ApacheAssistant demo项目搭建好了前端和后端框架，并实现前端和
 
 ## 安装及运行
 
-首先安装Python 3.5及以上版本，然后安装flask包
+首先安装Python 3.5及以上版本，然后安装必要的依赖库
 
 ```
 pip install flask
+pip install sqlitedict
 ```
 
 进入demo.py所在目录，执行
